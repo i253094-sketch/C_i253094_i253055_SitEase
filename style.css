@@ -47,3 +47,17 @@ nav a{
     font-size: 32px;
     font-weight: bold;
 }
+.products{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px 0;
+}
+.prod-img{
+    width: 260px;
+    border-radius: 8px;
+}
+.login-button{
+    text-align: center;
+    padding-bottom: 30px;
+}
