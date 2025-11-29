@@ -57,7 +57,30 @@ nav a{
     width: 260px;
     border-radius: 8px;
 }
-.login-button{
+.login-container{
     text-align: center;
     padding-bottom: 30px;
+}
+.login-button{
+    background: #b7e9a5;
+    padding: 10px 40px;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+footer{
+    background: #000000;
+    color: #FFFFFF;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+}
+.footer-right{
+    text-align: right;
+}
+.socials img{
+    width: 30px;
+    margin-left: 15px;
 }
