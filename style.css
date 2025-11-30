@@ -65,10 +65,12 @@ nav a{
 }
 .login-container{
     text-align: center;
+    color: #000;
     padding-bottom: 30px;
 }
 .login-button{
     background: #b7e9a5;
+    
     padding: 10px 40px;
     font-size: 18px;
     border: none;
