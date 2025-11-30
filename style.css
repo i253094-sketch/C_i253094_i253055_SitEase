@@ -90,3 +90,42 @@ footer{
     width: 30px;
     margin-left: 5px;
 }
+.login-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80hv;
+}
+.login-box{
+    background: #FFFFFF;
+    width: 350px;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: o 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+.login-box h2{
+    margin-bottom: 10px;
+    color: #000;
+}
+.subtitle{
+    margin-bottom: 20px;
+    color:#555;
+    font-size: 14px;
+}
+form{
+    text-align: left;
+}
+form label{
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block;
+}
+form input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border 1px solid#ccc;
+    font-size: 14px;
+}
