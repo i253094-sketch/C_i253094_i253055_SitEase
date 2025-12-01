@@ -131,46 +131,4 @@ form input{
     border 1px solid#ccc;
     font-size: 14px;
 }
-.hero2{
-    display:flex;
-    align-items:center;
-    background:#d4f4c3;
-    padding: 40px;
-}
-.hero-text2{
-    width: 50%;
-    font-size: 28px;
-}
-.hero-img2{
-    width: 40%;
-    border-radius: 10px;
-}
-.Section-title {
-    text-align: center;
-    font-size: 28px;
-    margin: 40px 0;
-}
-.explore-btn {
-    display: block;
-    margin: 0 auto;
-    width: 120px;
-    padding: 10px;
-    text-align: center;
-    background: #b8ffb3;
-    border-radius: 5px;
-    text-decoration: none;
-    color: #000;
-    font-weight: bold;
-}
-.category {
-    background: #b9ecff;
-    padding: 30px 0;
-    margin-top: 40px;
-}
-.products {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    padding: 20px;
-}
+
