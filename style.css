@@ -131,3 +131,17 @@ form input{
     border 1px solid#ccc;
     font-size: 14px;
 }
+.hero2{
+    display:flex;
+    align-items:center;
+    background:#d4f4c3;
+    padding: 40px;
+}
+.hero-text2{
+    width: 50%;
+    font-size: 28px;
+}
+.hero-img2{
+    width: 40%;
+    border-radius: 10px;
+}
