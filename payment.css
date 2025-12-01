@@ -1,35 +1,51 @@
 body{
-    margin:0;
-    font-family:Arial, Helvetica, sans-serif;
-    background:#f5f5f5;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f5f5;
 }
-
-/* HEADER */
 header{
-    background:#000;
-    color:#fff;
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:15px 40px;
-}
+    background:#000000;
+    color:#FFFFFF ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
 
+}
 .logo-section{
-    display:flex;
-    align-items:center;
-    gap:10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 .logo-img{
-    width:40px;
-}
+    width: 40px;
+    
 
+}
+nav a{
+    color: #FFFFFF;
+  text-decoration:none ;
+  margin: 0 12px;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+}
+.cart-icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    object-fit: contain;
+}
 nav a{
     color:#fff;
-    margin:0 12px;
     text-decoration:none;
+    margin:0 12px;
+    font-size:14px;
 }
 
-/* TITLE */
+nav img{
+    width:18px;
+}
 .payment-title{
     text-align:center;
     margin-top:40px;
@@ -88,17 +104,18 @@ nav a{
     margin-top:15px;
 }
 
-/* FOOTER */
 footer{
-    background:#000;
-    color:#fff;
+    background: #000000;
+    color: #FFFFFF;
     display:flex;
-    justify-content:space-between;
-    padding:20px 40px;
-    margin-top:40px;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
 }
-
+.footer-right{
+    text-align: right;
+}
 .socials img{
-    width:30px;
-    margin-left:15px;
+    width: 30px;
+    margin-left: 5px;
 }
