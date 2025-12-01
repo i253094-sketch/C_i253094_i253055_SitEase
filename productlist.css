@@ -127,4 +127,19 @@ promise {
 h3 {
     margin-top: 10px;
 }
+footer{
+    background: #000000;
+    color: #FFFFFF;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+}
+.footer-right{
+    text-align: right;
+}
+.socials img{
+    width: 30px;
+    margin-left: 5px;
+}
 
