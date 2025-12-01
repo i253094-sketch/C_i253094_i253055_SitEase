@@ -100,16 +100,18 @@ nav a {
 }
 
 /* FOOTER – same as home page */
-footer {
-    background: #000;
-    color: #fff;
-    display: flex;
+footer{
+    background: #000000;
+    color: #FFFFFF;
+    display:flex;
     justify-content: space-between;
     padding: 20px 40px;
     align-items: center;
 }
-
-.socials img {
+.footer-right{
+    text-align: right;
+}
+.socials img{
     width: 30px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
