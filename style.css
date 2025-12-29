@@ -10,6 +10,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
+    
 
 }
 .logo-section{
@@ -20,12 +21,13 @@ header{
 .logo-img{
     width: 40px;
     
+    
 
 }
 nav a{
     color: #FFFFFF;
   text-decoration:none ;
-  margin: 0 12px;
+  margin: 0 10px;
   font-size: 14px;
   display: inline-flex;
   align-items: center;
